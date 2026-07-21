@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
