@@ -77,5 +77,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
