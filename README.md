@@ -74,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0461-hamming-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
