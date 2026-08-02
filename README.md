@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
