@@ -1,19 +1,15 @@
 class Solution {
     public String removeTrailingZeros(String num) {
-        Stack<Character> stack=new Stack<>();
-        for(char c:num.toCharArray())
-        {
-            stack.push(c);
+        int n=0;
+        for(int i=num.length()-1;i>=0;i--){
+            if(num.charAt(i)=='0'){
+                n++;
+            }
+            else{
+                break;
+            }
         }
-        while(stack.peek()=='0')
-        {
-            stack.pop();
-        }
-        StringBuilder sb=new StringBuilder();
-        while(!stack.isEmpty())
-        {
-            sb.append(stack.pop());
-        }
-        return sb.reverse().toString();
+        String s=num.substring(0,num.length()-n);
+        return s;
     }
 }
