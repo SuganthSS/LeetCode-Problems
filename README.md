@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
