@@ -1,18 +1,13 @@
 class Solution {
     public boolean check(int[] nums) {
-        int[] res=Arrays.copyOf(nums,nums.length);
-        Arrays.sort(res);
-        if(Arrays.toString(nums).equals(Arrays.toString(res))) return true;
+        int count=0;
         for(int i=0;i<nums.length;i++)
         {
-            int first=nums[0];
-            for(int j=0;j<nums.length-1;j++)
+            if(nums[i]>nums[(i+1) % nums.length])
             {
-                nums[j]=nums[j+1];
+                count++;
             }
-            nums[nums.length-1]=first;
-            if(Arrays.toString(nums).equals(Arrays.toString(res))) return true;
         }
-        return false;
+        return count<=1;
     }
 }
