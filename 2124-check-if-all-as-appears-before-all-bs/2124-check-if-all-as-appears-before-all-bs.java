@@ -1,17 +1,12 @@
 class Solution {
     public boolean checkString(String s) {
-        int count=0;
         for(int i=0;i<s.length()-1;i++)
         {
-            if(s.charAt(i)!=s.charAt(i+1))
+            if(s.charAt(i)=='b' && s.charAt(i+1)=='a')
             {
-                count++;
-                if(s.charAt(i)!='a' && s.charAt(i+1)!='b')
-                {
-                    return false;
-                }
+                return false;
             }
         }
-        return count<=1;
+        return true;
     }
 }
