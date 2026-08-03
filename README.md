@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
