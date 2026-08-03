@@ -6,8 +6,12 @@ class Solution {
             if(i%2==0)
             {
                 count++;
+                if(count>=2)
+                {
+                    return true;
+                }
             }
         }
-        return count>=2;
+        return false;
     }
 }
