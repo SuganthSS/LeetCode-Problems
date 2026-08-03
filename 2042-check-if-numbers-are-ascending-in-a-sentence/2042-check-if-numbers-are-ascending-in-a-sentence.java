@@ -1,22 +1,17 @@
 class Solution {
     public boolean areNumbersAscending(String s) {
-        String[] arr=s.split(" ");
-        int min=0;
-        for(String i:arr)
-        {
-            if(i.matches("\\d+"))
-            {
-                int temp=Integer.parseInt(i);
-                if(temp>min)
-                {
-                    min=temp;
-                }
-                else
-                {
-                    return false;
-                }
+        int prev = 0;
+
+       String[] words = s.split(" ");
+       for(String word : words){
+          if(Character.isDigit(word.charAt(0))){
+            int num = Integer.parseInt(word);
+            if(num<=prev){
+                return false;
             }
-        }
-        return true;
+            prev = num;
+          }
+       }
+       return true;
     }
 }
