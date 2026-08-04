@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
