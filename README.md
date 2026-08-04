@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
