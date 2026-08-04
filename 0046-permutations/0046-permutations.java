@@ -1,31 +1,36 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> list=new ArrayList<>();
-        List<Integer> temp=new ArrayList<>();
-        boolean[] visited=new boolean[nums.length];
-        backtrack(nums,list,temp,visited);
-        return list;
+
+    public static void swap(int i, int idx, int[] nums){
+        int temp=nums[i];
+        nums[i]=nums[idx];
+        nums[idx]=temp;
     }
 
-    public static void backtrack(int[] nums,List<List<Integer>> list,List<Integer> temp,boolean[] visited)
-    {
-        if(temp.size()==nums.length)
-        {
-            list.add(new ArrayList<>(temp));
+    public static void permutation(List<List<Integer>> res, int idx, int[] nums){
+
+        if(idx==nums.length){
+            ArrayList<Integer> temp=new ArrayList<>();
+            for(int num:nums){
+                temp.add(num);
+            }
+            res.add(temp);
             return;
         }
+        HashSet<Integer> appeared=new HashSet<>();
+        for(int i=idx;i<nums.length;i++){
+            if(appeared.add(nums[i])){
+            swap(i,idx,nums);
 
-        for(int i=0;i<nums.length;i++)
-        {
-            if(visited[i]) continue;
+            permutation(res, idx+1, nums);
 
-            visited[i]=true;
-            temp.add(nums[i]);
+            swap(i,idx,nums);
+        }}
+    }
 
-            backtrack(nums, list, temp, visited);
 
-            temp.remove(temp.size()-1);
-            visited[i]=false;
-        }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> res=new ArrayList<>();
+        permutation(res,0,nums);
+        return res;
     }
 }
