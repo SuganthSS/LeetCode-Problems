@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
