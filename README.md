@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -257,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
