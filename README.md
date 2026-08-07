@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
