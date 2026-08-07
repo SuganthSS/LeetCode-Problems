@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
