@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
@@ -227,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
