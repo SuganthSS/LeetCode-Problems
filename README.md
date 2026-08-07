@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
