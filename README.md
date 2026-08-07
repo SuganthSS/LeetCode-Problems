@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
