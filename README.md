@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -82,12 +83,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
