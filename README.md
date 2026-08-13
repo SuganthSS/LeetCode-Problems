@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
