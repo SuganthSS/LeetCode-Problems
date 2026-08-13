@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3827-count-monobit-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3827-count-monobit-integers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3827-count-monobit-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3827-count-monobit-integers/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
