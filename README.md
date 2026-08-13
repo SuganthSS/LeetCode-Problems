@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0089-gray-code](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
 ## Design
