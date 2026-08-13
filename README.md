@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0401-binary-watch](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3827-count-monobit-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3827-count-monobit-integers/) | Easy |
 ## Backtracking
@@ -306,5 +310,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 <!---LeetCode Topics End-->
