@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
