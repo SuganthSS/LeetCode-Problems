@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,10 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
