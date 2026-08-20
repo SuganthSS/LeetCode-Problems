@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
