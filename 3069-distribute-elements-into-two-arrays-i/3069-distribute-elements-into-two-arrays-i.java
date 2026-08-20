@@ -21,9 +21,13 @@ class Solution {
             }
         }
         list1.addAll(list2);
-        int[] result = list1.stream()
-                           .mapToInt(Integer::intValue)
-                           .toArray();
+        int k=0;
+        int[] result=new int[list1.size()];
+        for(int i:list1)
+        {
+            result[k]=list1.get(k);
+            k++;
+        }
         return result;
 
     }
