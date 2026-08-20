@@ -20,12 +20,16 @@ class Solution {
                 ind2++;
             }
         }
-        list1.addAll(list2);
         int k=0;
-        int[] result=new int[list1.size()];
+        int[] result=new int[list1.size()+list2.size()];
         for(int i:list1)
         {
-            result[k]=list1.get(k);
+            result[k]=i;
+            k++;
+        }
+        for(int i:list2)
+        {
+            result[k]=i;
             k++;
         }
         return result;
