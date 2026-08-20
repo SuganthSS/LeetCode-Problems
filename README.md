@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2706-buy-two-chocolates](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
