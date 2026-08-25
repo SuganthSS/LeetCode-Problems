@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
