@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
