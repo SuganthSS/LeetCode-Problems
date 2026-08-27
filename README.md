@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
