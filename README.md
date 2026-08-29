@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-sex-of-employees](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
