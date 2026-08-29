@@ -13,7 +13,6 @@ class Solution {
                 set2.add(nums2[i]);
             }
         }
-        System.out.print(set2);
         int[] arr=new int[set2.size()];
         int index=0;
         for(int i:set2)
