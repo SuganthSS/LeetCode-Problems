@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1859-sorting-the-sentence/) | Easy |
