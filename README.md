@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -419,4 +420,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
