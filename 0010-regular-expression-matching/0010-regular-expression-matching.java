@@ -1,33 +1,40 @@
 class Solution {
-    public boolean isMatch(String s, String p) {
+    public boolean isMatch(String str1,  String str2) {
+        return isMatch(str1, str1.length() - 1, str2, str2.length() - 1, new int[str1.length()][str2.length()]);
+    }
 
-        if (s == null || p == null) {
+
+    public boolean isMatch(String str1, int index1, String str2, int index2, int[][] cache) {
+                if (index1 < 0) {
+            while (index2 >= 0) {
+                if (str2.charAt(index2) == '*') {
+                    index2 -= 2;
+                } else {
+                    return false;
+                }
+            }
+            return true;
+        }
+        if (index2 < 0) {
             return false;
         }
-        boolean[][] dp = new boolean[s.length()+1][p.length()+1];
-        dp[0][0] = true;
-        for (int i = 0; i < p.length(); i++) {
-            if (p.charAt(i) == '*' && dp[0][i-1]) {
-                dp[0][i+1] = true;
+        if (cache[index1][index2] != 0) {
+            return cache[index1][index2] == 1;
+        }
+        boolean match = false;
+        if (str2.charAt(index2) == '*') {
+            match = match || isMatch(str1, index1, str2, index2 -2, cache); 
+            if (index2 - 1 >= 0 && (str2.charAt(index2 - 1) == '.' || str2.charAt(index2 - 1) == str1.charAt(index1))) {
+                match = match || isMatch(str1, index1 - 1, str2, index2 -2, cache); 
+                match = match || isMatch(str1, index1 - 1, str2, index2, cache); 
             }
         }
-        for (int i = 0 ; i < s.length(); i++) {
-            for (int j = 0; j < p.length(); j++) {
-                if (p.charAt(j) == '.') {
-                    dp[i+1][j+1] = dp[i][j];
-                }
-                if (p.charAt(j) == s.charAt(i)) {
-                    dp[i+1][j+1] = dp[i][j];
-                }
-                if (p.charAt(j) == '*') {
-                    if (p.charAt(j-1) != s.charAt(i) && p.charAt(j-1) != '.') {
-                        dp[i+1][j+1] = dp[i+1][j-1];
-                    } else {
-                        dp[i+1][j+1] = (dp[i+1][j] || dp[i][j+1] || dp[i+1][j-1]);
-                    }
-                }
-            }
+        if(str2.charAt(index2) == '.' || str2.charAt(index2) == str1.charAt(index1)) {
+            match = match || isMatch(str1, index1 - 1, str2, index2 - 1, cache);
         }
-        return dp[s.length()][p.length()];
+        cache[index1][index2] = match ? 1 : -1;
+        return match;
     }
+
+
 }
