@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0072-edit-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
