@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3436-find-valid-emails](https://github.com/SuganthSS/LeetCode-Problems/tree/main/3436-find-valid-emails/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
