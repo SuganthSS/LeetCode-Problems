@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0877-stone-game](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuganthSS/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuganthSS/LeetCode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SuganthSS/LeetCode-Problems/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
